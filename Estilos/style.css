@@ -1,0 +1,43 @@
+body {
+    background-image:url(../img/nesquikwallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titulo´{font-family: 'Festive', cursive;}
+h1{font-family: 'Festive', cursive;}
+h1{font-family: 'Festive', cursive;}
+h2{font-family: 'Festive', cursive;}
+h3{font-family: 'Festive', cursive;}
+p{font-family: 'Lemonada', cursive;}
+li{font-family: 'Lemonada', cursive;}
+ol{font-family: 'Lemonada', cursive;}
+.uno {
+    width:3000px;
+    height:50px;
+    background:rgb(255, 187, 0);
+  }
+.padre {
+    display:flex;
+  }
+  
+  .btn1, .btn3 { 
+    background-color: #4717b8;
+    color: #fff;
+    
+  }
+  
+  .btn2 {
+    background-color: #b89317;
+    color: #fff;
+  }
+  
+  .btn1, .btn2, .btn3 { 
+    flex: 1;
+    font-family: 'Lemonada';
+  }
+  .contenedor {  
+    padding: 10px;
+    margin: 5px;
+    background-color:#a79235;
+  }
+ 
